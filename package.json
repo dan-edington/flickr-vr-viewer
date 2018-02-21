@@ -1,0 +1,26 @@
+{
+  "name": "react-aframe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aframe": "^0.7.1",
+    "aframe-react": "^4.3.0",
+    "lodash.isequal": "^4.5.0",
+    "react": "^16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "fetch-mock": "^6.0.0",
+    "jest-cli": "^22.1.4",
+    "react-dom": "^16.2.0",
+    "react-test-renderer": "^16.2.0"
+  }
+}
